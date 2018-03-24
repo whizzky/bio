@@ -5,8 +5,9 @@
 
 ![Logo of AppDynamics](https://www.appdynamics.com/media/uploaded-images/1519762496/.thumbnails/appd-logo-340x0_q100.png)
 
-![Picture of Jules](https://www.appdynamics.com/media/uploaded-images/1519762496/.thumbnails/appd-logo-340x0_q100.png)
+## Who am I?
 
+![Picture of Jules](jules.png)
 
 Name: Jules Weijters<br/>
 Born: 04-02-1973<br/>
@@ -24,6 +25,10 @@ LinkedIn: [www.linkedin.com/in/julesweijters](http://www.linkedin.com/in/juleswe
 *Example of delivery in 2017 during [TrailheaDX](https://developer.salesforce.com/trailheadx), the yearly Salesforce Developer conference:*
 ”There was also a workshop run by Jules Weijters called **Salesforce DX and Continuous Integration**, that showed how to use Salesforce DX and Travis as CI systems. This was one of my highlighted sessions to attend. Unfortunately the session was so packed that the WiFi couldn’t provide internet for all of us and I couldn’t do the workshop. A real shame.” — Source external [blog](https://labs.ebury.rocks/2017/07/12/trailheadx-2017-highlights/)
 Countdown for FY19
+
+![Picture of session](dx.png)
+
+## My Partner Sales engineer role within AppDynamics
 
 ### VISION
 
