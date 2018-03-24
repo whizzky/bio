@@ -87,5 +87,14 @@ Evangelize, second half FY:
 ### Progress Tracker
 
 Show progress against Methods
+- [ ] Approved Starter Plan
+- [ ] Weekly progress and feedback
+- [ ] Learning path
+- [ ] Delivering partner success
+- [ ] Career Plan
+- [ ] Content creation
+- [ ] Community building
+- [ ] Weekly progress and feedback
+- [ ] Knowledge share
 ### 
 
