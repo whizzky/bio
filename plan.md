@@ -18,7 +18,8 @@ Region: Europe North<br/>
 Experience: Over 20 years in the Information Technology industry. Worked for 10 years in the IT and Developer Operations market with Oracle in EMEA. Last 1,5 year within Oracle, primary EMEA technical resource for the newly introduced Oracle Cloud Management solution (APM, Infrastructure Monitoring, Log Analytics and IT Analytics) responsible for evangelism and enablement across customers, partner ecosystem and Oracle solution engineering teams.
 Currently in Salesforce helping customer in EMEA North getting business value from the Salesforce platform focussing on security, integration and (low-code) development.<br/>
 Drive: Passionate about innovative technical solutions and enabling customer and/or partner success.<br/>
-LinkedIn: [www.linkedin.com/in/julesweijters](http://www.linkedin.com/in/julesweijters)
+LinkedIn: [www.linkedin.com/in/julesweijters](http://www.linkedin.com/in/julesweijters)<br/>
+Resume: [Resume](EN.CURRICULUM.VITAE.201803.pdf)
 
 **Fun fact:** In Tel Aviv for business during the first time Gaza rockets reached the city, http://www.news.com.au/national/victoria/on-the-ground-in-tel-aviv-as-hamas-rockets-reach-israels-second-largest-city/news-story/e62444ba27af7da3f183ecd4e8fbbd6a. Had no clue what was happening until it was over, never maid it to a shelter and saw the record hit the shore.<br/>
 
@@ -28,7 +29,7 @@ Countdown for FY19
 
 ![Picture of session](dx.jpg)
 
-###Link to result of labs excercises during recruitment, [AppD Labs](AppDLabs.pdf)
+### Link to result of labs excercises during recruitment, [AppD Labs](AppDLabs.pdf)
 
 ## My Partner Sales engineer role within AppDynamics
 
