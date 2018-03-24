@@ -79,7 +79,7 @@ Evangelize, second half FY:
 * Create a minimum of 3 blog post on partner success with AppDynamics solutions.
 * Built or use a structured high-value content delivery method (partner academy), at least in the planning phase with concrete outcomes defined.
 
-### Obstacle
+### Obstacles
 
 📍*What would block me from achieving the vision or fully completing the methods.*
 
@@ -87,9 +87,10 @@ Evangelize, second half FY:
 * Having misinterpreted the Partner Solution Engineering role and misaligned the vision, leads to a new and qualified Starter Plan.
 * A growing organization with shifting priorities can influence the vision and outcome.
 
-### Progress Tracker
+### Progress
 
-Show progress against Methods
+📍*Show progress against Methods.*
+
 - [ ] Approved Starter Plan
 - [ ] Weekly progress and feedback
 - [ ] Learning path
